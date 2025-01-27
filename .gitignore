@@ -164,3 +164,5 @@ liveEngine/.DS_Store
 dashboard/.DS_Store
 .DS_Store
 /winvenv
+/myenv
+ta_lib-0.6.0-cp312-cp312-win_amd64.whl

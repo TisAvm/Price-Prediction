@@ -80,5 +80,5 @@ def main(file_path):
 
 # Run the script
 if __name__ == "__main__":
-    file_path = "path_to_your_1min_interval_data.csv"  # Replace with your file path
+    file_path = r"C:\Aviral\GITHUB\Price-Prediction\backtesting\data\nifty2015-2025.csv"  # Replace with your file path
     main(file_path)
