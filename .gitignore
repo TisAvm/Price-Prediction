@@ -163,3 +163,4 @@ cython_debug/
 liveEngine/.DS_Store
 dashboard/.DS_Store
 .DS_Store
+/winvenv
