@@ -166,3 +166,5 @@ dashboard/.DS_Store
 /winvenv
 /myenv
 ta_lib-0.6.0-cp312-cp312-win_amd64.whl
+/venv3.8
+/backtesting/data
